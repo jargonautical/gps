@@ -1,0 +1,61 @@
+OrganisationID,OrganisationCode,OrganisationType,SubType,OrganisationName,OrganisationStatus,IsPimsManaged,Address1,Address2,Address3,City,County,Postcode,Latitude,Longitude
+47017,L83114,GP practice,UNKNOWN,Greenswood Medical,Visible,FALSE,1 Greenswood Road,,,Brixham,Devon,TQ5 9HN,50.38944626,-3.515483856
+47023,L83139,GP practice,UNKNOWN,Boutport Medical Centre,Visible,FALSE,110 Boutport Street,,,Barnstaple,Devon,EX31 1TD,51.08256531,-4.06000185
+47039,L83058,GP practice,UNKNOWN,Southernhay House Surgery,Visible,FALSE,30 Barnfield Road,,,Exeter,Devon,EX1 1RX,50.72260666,-3.523403168
+47071,L83044,GP practice,UNKNOWN,The Blackdown Practice,Visible,FALSE,The Surgery,Station Road,Hemyock,Cullompton,Devon,EX15 3SF,50.91315079,-3.229112625
+48334,L83002,GP practice,UNKNOWN,Honiton Surgery,Visible,FALSE,The Surgery,Marlpits Lane,,Honiton,Devon,EX14 2NY,50.79458237,-3.188029766
+48365,L83137,GP practice,UNKNOWN,South Molton Health Centre,Visible,FALSE,9-10 East Street,,,South Molton,Devon,EX36 3BZ,51.01839066,-3.832490444
+48439,L83021,GP practice,UNKNOWN,Dean Cross Surgery,Visible,FALSE,21 Radford Park Road,Plymstock,Plymouth,PL9 9DL,Devon,PL9 9DL,50.35894775,-4.095342159
+48554,L83042,GP practice,UNKNOWN,St Leonard's Practice,Visible,FALSE,Athelstan Road,,,Exeter,Devon,EX1 1SB,50.7237587,-3.522703886
+48851,L83003,GP practice,UNKNOWN,Queens Medical Centre,Visible,FALSE,6-7 Queen Street,,,Barnstaple,Devon,EX32 8HY,51.08017731,-4.057168961
+48888,L83068,GP practice,UNKNOWN,Lyn Health Medical & Minor Injury Services,Visible,FALSE,Burvill Street,,,Lynton,Devon,EX35 6HA,51.22922134,-3.837231398
+49108,L83121,GP practice,UNKNOWN,Beech House Surgery,Visible,FALSE,Beech House,Shebbear,Beaworthy,,Devon,EX21 5RU,50.86186218,-4.218993187
+49178,L83056,GP practice,UNKNOWN,Claremont Medical Practice,Visible,FALSE,CLAREMONT MED PRACTICE,CLAREMONT GROVE,,EXMOUTH,Devon,EX8 2JF,50.62115479,-3.401485443
+49242,L83129,GP practice,UNKNOWN,Hartland Health Centre,Visible,FALSE,66 The Square,,,Hartland,Devon,EX39 6BL,50.99262619,-4.482471943
+49338,L83620,GP practice,UNKNOWN,The Surgery. Marlpits Road. Honiton,Visible,FALSE,The Surgery,marlpits Lane,,Honiton,Devon,EX14 2NY,50.79458237,-3.188029766
+49526,L83043,GP practice,UNKNOWN,Leatside Surgery,Visible,FALSE,Leatside Surgery,Babbage Road,Devon,Totnes,Devon,TQ9 5JA,50.43495178,-3.683760166
+49651,L83657,GP practice,UNKNOWN,Glendevon Medical Centre ,Visible,FALSE,GLENDEVON MEDICAL CENTRE,3 CARLTON PLACE,,TEIGNMOUTH,Devon,TQ14 8AB,50.54566956,-3.496323824
+49777,L83092,GP practice,UNKNOWN,Sampford Peverell (College Surgery Partnership),Visible,FALSE,CULM VALLEY INTEGRATED CH,WILLAND ROAD,,CULLOMPTON,Devon,EX15 1FE,50.86418152,-3.392718077
+49805,L83057,GP practice,UNKNOWN,Fremington Medical Centre,Visible,FALSE,11-13 Beards Road,Fremington,,Barnstaple,Devon,EX31 2PG,51.06991577,-4.122117996
+49865,L83041,GP practice,UNKNOWN,The Westbank Practice,Visible,FALSE,Starcross Surgery,Church Street,Starcross,Exeter,Devon,EX6 8PZ,50.62566757,-3.447808981
+50155,L83018,GP practice,UNKNOWN,Beaumont Villa Surgery,Visible,FALSE,BEAUMONT VILLA SURGERY,23 BEAUMONT ROAD,ST.JUDES,PLYMOUTH,Devon,PL4 9BL,50.37320328,-4.127895355
+50180,L83639,GP practice,UNKNOWN,Wembury Surgery,Visible,FALSE,51 Hawthorn Drive,Wembury,Devon,Plymouth,Devon,PL9 0BE,50.32186508,-4.072553158
+50272,L83096,GP practice,UNKNOWN,The Warwick Practice,Visible,FALSE,The Medical Centre,St Brannocks Road,,Ilfracombe,Devon,EX34 8EG,51.2037468,-4.126819611
+50433,L83066,GP practice,UNKNOWN,Mount Pleasant Health Centre,Visible,FALSE,Mount Pleasant Road,,,Exeter,Devon,EX4 7BW,50.73284149,-3.51591301
+50539,L83098,GP practice,UNKNOWN,Cheriton Bishop & Teign Valley Practice,Visible,FALSE,Cheriton Bishop & Teign Valley Practice,Yeoford Road,Cheriton Bishop,Exeter,Devon,EX6 6JA,50.72490311,-3.74215126
+50614,L83130,GP practice,UNKNOWN,Parkhill Medical Practice,Visible,FALSE,Parkhill Road, ,,Torquay,Devon,TQ1 2AR,50.46025467,-3.522931099
+50645,L83102,GP practice,UNKNOWN,Yelverton Surgery,Visible,FALSE,THE SURGERY,WESTELLA ROAD,,YELVERTON,Devon,PL20 6AS,50.49135971,-4.08279705
+50821,L83651,GP practice,UNKNOWN,Adelaide Street Surgery,Visible,FALSE,20 Adelaide Street,Stonehouse,,Plymouth,Devon,PL1 3JF,50.37051392,-4.155817032
+50947,L83009,GP practice,UNKNOWN,Bampton Surgery,Visible,FALSE,Barnhay,Bampton,,Tiverton,Devon,EX16 9NB,50.98876572,-3.487291336
+51002,L83076,GP practice,UNKNOWN,Wycliffe Surgery,Visible,FALSE, 8 Cattedown Road,Cattedown,,Plymouth,Devon,PL4 0BZ,50.36860275,-4.122866154
+51150,L83052,GP practice,UNKNOWN,Castle Place Practice,Visible,FALSE,Castle Place Practice,Kennedy Way,,Tiverton,Devon,EX16 6NP,50.90948105,-3.492941141
+51212,L83065,GP practice,UNKNOWN,Chiddenbrook Surgery,Visible,FALSE,,,Threshers,Crediton,Devon,EX17 3JJ,50.79128265,-3.674683571
+51263,L83067,GP practice,UNKNOWN,Sid Valley Practice,Visible,FALSE,SIDMOUTH HEALTH CENTRE,,,SIDMOUTH,Devon,EX10 8ET,50.681427,-3.238716602
+51458,L83099,GP practice,UNKNOWN,Isca Medical Practice,Visible,FALSE,38 Polsloe Road,,,Exeter,Devon,EX1 2DW,50.72776794,-3.512575388
+51757,L83073,GP practice,UNKNOWN,Brannam Medical Centre,Visible,FALSE,Kiln Lane,,,Barnstaple,Devon,EX32 8GP,51.07758713,-4.056211472
+51848,L83663,GP practice,UNKNOWN,Blake House Surgery,Visible,FALSE,BLAKE HOUSE SURGERY,BOWHAY CLOSE,BLACK TORRINGTON,BEAWORTHY,Devon,EX21 5QE,50.82819366,-4.179224968
+52169,L83011,GP practice,UNKNOWN,Budleigh Salterton Medical Centre,Visible,FALSE,1 The Lawn,Budleigh Salterton,,,Devon,EX9 6LS,50.63003159,-3.327715397
+52220,L83025,GP practice,UNKNOWN,Wallingbrook Health Centre,Visible,FALSE,Back Lane,,,Chulmleigh,Devon,EX18 7DL,50.91436005,-3.874947786
+52460,L83015,GP practice,UNKNOWN,Oakside Surgery,Visible,FALSE,Guy Miles Way,Honicknowle,,Plymouth,Devon,PL5 3PY,50.41127396,-4.159314156
+52873,L83673,GP practice,UNKNOWN,The Clock Tower Surgery,Visible,FALSE,9 New North Road,,,Exeter,Devon,EX4 4HF,50.72780228,-3.534014225
+52992,L83007,GP practice,UNKNOWN,Seaton & Colyton Medical Practice,Visible,FALSE,SEATON & COLYTON MED.PRAC,148 HAREPATH ROAD,,SEATON,Devon,EX12 2DU,50.71308136,-3.074099302
+53202,L83023,GP practice,UNKNOWN,Mid Devon Medical Practice,Visible,FALSE,Witheridge Medical Centre,Cannington Road,Witheridge,Tiverton,Devon,EX16 8EZ,50.91508102,-3.706467152
+53434,L83094,GP practice,UNKNOWN,Dartmouth Medical Practice,Visible,FALSE,DARTMOUTH MED. PRACTICE,THE CLIFTON SURGERY,35 VICTORIA ROAD,DARTMOUTH,Devon,TQ6 9RT,50.35118103,-3.580780983
+53488,L83120,GP practice,UNKNOWN,Channel View Surgery,Visible,FALSE,CHANNEL VIEW SURGERY,3 COURTENAY PLACE,,TEIGNMOUTH,Devon,TQ14 8AY,50.54614258,-3.494009733
+53586,L83037,GP practice,UNKNOWN,Chard Road Surgery,Visible,FALSE,Chard Road Surgery,Chard Road,St. Budeaux,Plymouth,Devon,PL5 2UE,50.40791321,-4.181807041
+53652,L83101,GP practice,UNKNOWN,Abbey Surgery,Visible,FALSE,28 Plymouth Road,,,Tavistock,Devon,PL19 8BU,50.54692078,-4.150374413
+53818,L83122,GP practice,UNKNOWN,Grosvenor Surgery,Visible,FALSE,17 Grosvenor Road,,,Paignton,Devon,TQ4 5AZ,50.43246841,-3.568139076
+53819,L83059,GP practice,UNKNOWN,Norton Brook Medical Centre,Visible,FALSE,Cookworthy Road,,,Kingsbridge,Devon,TQ7 1AE,50.28863144,-3.781869888
+53901,L83080,GP practice,UNKNOWN,Armada Surgery,Visible,FALSE,28 Oxford Place,Western Approach,,Plymouth,Devon,PL1 5AJ,50.37476349,-4.144870758
+54024,L83616,GP practice,UNKNOWN,Sampford Peverell Surgery (College Surgery Partnership),Visible,FALSE,SAMPFORD PEVERELL SURGERY,29 LOWER TOWN,,SAMPFORD PEVERELL,Devon,EX16 7BJ,50.91971207,-3.378469706
+54047,L83054,GP practice,UNKNOWN,Townsend House Medical Practice,Visible,FALSE,TOWNSEND HOUSE,49 HAREPATH ROAD,,SEATON,Devon,EX12 2RY,50.70849228,-3.073272228
+54419,L83008,GP practice,UNKNOWN,Pathfields Practice,Visible,FALSE,Plympton Health Centre,Mudge Way,Plympton,Plymouth,Devon,PL7 1AD,50.38626862,-4.052612782
+54425,L83038,GP practice,UNKNOWN,Tavistock Health Centre,Visible,FALSE,Abbey Rise,,,Tavistock,Devon,PL19 9FD,50.54580688,-4.145891666
+54459,Y02633,GP practice,UNKNOWN,Bow Medical Practice,Visible,FALSE,Bow Medical Practice,Iter Cross,Junction Road,Bow,Devon,EX17 6FB,50.80147552,-3.806433916
+54542,L83024,GP practice,UNKNOWN,BARNFIELD HILL SURGERY,Visible,FALSE,BARNFIELD HILL SURGERY,12 BARNFIELD HILL,,EXETER,Devon,EX1 1SR,50.72340012,-3.520382881
+54588,L83082,GP practice,UNKNOWN,Chagford Health Centre ,Visible,FALSE,THE HEALTH CENTRE,CHAGFORD,,NEWTON ABBOT,Devon,TQ13 8BW,50.67108154,-3.837242365
+54674,L83126,GP practice,UNKNOWN,Bishops Place Surgery,Visible,FALSE,1 Bishops Place,Paignton,,,Devon,TQ3 3DZ,50.43620682,-3.56878376
+54713,L83095,GP practice,UNKNOWN,Coleridge Medical Centre Sandfords Surgery,Visible,FALSE,COLERIDGE MEDICAL CENTRE,CANAAN WAY,,OTTERY ST.MARY,Devon,EX11 1EQ,50.75177765,-3.283767223
+54757,L83149,GP practice,UNKNOWN,Cherrybrook Medical Centre,Visible,FALSE,Hookhills Road,,,Paignton,Devon,TQ4 7SA,50.40769577,-3.56547761
+54836,L83055,GP practice,UNKNOWN,Compass House Medical Centres Brixham,Visible,FALSE,King Street,,,Brixham,Devon,TQ5 9TF,50.39586639,-3.512171268
+55176,L83053,GP practice,UNKNOWN,Rolle Medical Partnership,Visible,FALSE,ROLLE MEDICAL PARTNERSHIP,EXMOUTH HEALTH CENTRE,CLAREMONT GROVE,EXMOUTH,Devon,EX8 2JF,50.62115479,-3.401485443
